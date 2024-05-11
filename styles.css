@@ -1,14 +1,14 @@
 body{
-    background-color: #39393A ;
+    background-color: #ea7317 ;
    
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .cat{
-    background-color: #E6E6E6;
+    background-color: #06d6a0;
     margin: 0.5em;
     padding: 1em;
     border-radius: 1em;
-    border: 1px solid #36827F;
+    border: 1px solid #ea7317;
     flex: 1;
 }
 
